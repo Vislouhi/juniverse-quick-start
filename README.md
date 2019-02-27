@@ -1,5 +1,9 @@
 # juniverse-quick-start
 
+Ссылка на Juniverse
+
+https://github.com/Vislouhi/Juniverse
+
 ## Задания
 
 1. Дартс
